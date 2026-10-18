@@ -1,1093 +1,1093 @@
 {
   "name": "3DS Jingles",
-  "entries": [
+  "n3ds": [
     {
-      "game": "10-in-1 - Arcade Collection",
-      "file": "audio/10-in-1 - Arcade Collection.mp3"
+      "name": "10-in-1 - Arcade Collection",
+      "file": "10-in-1 - Arcade Collection.mp3"
     },
     {
-      "game": "1001 Spikes",
-      "file": "audio/1001 Spikes Rev 1.mp3"
+      "name": "1001 Spikes",
+      "file": "1001 Spikes Rev 1.mp3"
     },
     {
-      "game": "2048",
-      "file": "audio/2048.mp3"
+      "name": "2048",
+      "file": "2048.mp3"
     },
     {
-      "game": "3D After Burner II",
-      "file": "audio/3D After Burner II.mp3"
+      "name": "3D After Burner II",
+      "file": "3D After Burner II.mp3"
     },
     {
-      "game": "3D Altered Beast",
-      "file": "audio/3D Altered Beast.mp3"
+      "name": "3D Altered Beast",
+      "file": "3D Altered Beast.mp3"
     },
     {
-      "game": "3D Classics - Excitebike",
-      "file": "audio/3D Classics - Excitebike Rev 1.mp3"
+      "name": "3D Classics - Excitebike",
+      "file": "3D Classics - Excitebike Rev 1.mp3"
     },
     {
-      "game": "3D Classics - Kid Icarus",
-      "file": "audio/3D Classics - Kid Icarus.mp3"
+      "name": "3D Classics - Kid Icarus",
+      "file": "3D Classics - Kid Icarus.mp3"
     },
     {
-      "game": "3D Classics - Kirbys Adventure",
-      "file": "audio/3D Classics - Kirbys Adventure.mp3"
+      "name": "3D Classics - Kirbys Adventure",
+      "file": "3D Classics - Kirbys Adventure.mp3"
     },
     {
-      "game": "3D Classics - TwinBee",
-      "file": "audio/3D Classics - TwinBee.mp3"
+      "name": "3D Classics - TwinBee",
+      "file": "3D Classics - TwinBee.mp3"
     },
     {
-      "game": "3D Classics - Xevious",
-      "file": "audio/3D Classics - Xevious.mp3"
+      "name": "3D Classics - Xevious",
+      "file": "3D Classics - Xevious.mp3"
     },
     {
-      "game": "3D Classics Urban Champion",
-      "file": "audio/3D Classics Urban Champion.mp3"
+      "name": "3D Classics Urban Champion",
+      "file": "3D Classics Urban Champion.mp3"
     },
     {
-      "game": "3D Ecco the Dolphin",
-      "file": "audio/3D Ecco the Dolphin.mp3"
+      "name": "3D Ecco the Dolphin",
+      "file": "3D Ecco the Dolphin.mp3"
     },
     {
-      "game": "3D Galaxy Force II",
-      "file": "audio/3D Galaxy Force II.mp3"
+      "name": "3D Galaxy Force II",
+      "file": "3D Galaxy Force II.mp3"
     },
     {
-      "game": "3D Gunstar Heroes",
-      "file": "audio/3D Gunstar Heroes.mp3"
+      "name": "3D Gunstar Heroes",
+      "file": "3D Gunstar Heroes.mp3"
     },
     {
-      "game": "3D Sonic the Hedgehog 2",
-      "file": "audio/3D Sonic the Hedgehog 2.mp3"
+      "name": "3D Sonic the Hedgehog 2",
+      "file": "3D Sonic the Hedgehog 2.mp3"
     },
     {
-      "game": "3D Sonic the Hedgehog",
-      "file": "audio/3D Sonic the Hedgehog.mp3"
+      "name": "3D Sonic the Hedgehog",
+      "file": "3D Sonic the Hedgehog.mp3"
     },
     {
-      "game": "3D Space Harrier",
-      "file": "audio/3D Space Harrier.mp3"
+      "name": "3D Space Harrier",
+      "file": "3D Space Harrier.mp3"
     },
     {
-      "game": "3D Streets of Rage 2",
-      "file": "audio/3D Streets of Rage 2.mp3"
+      "name": "3D Streets of Rage 2",
+      "file": "3D Streets of Rage 2.mp3"
     },
     {
-      "game": "3D Streets of Rage",
-      "file": "audio/3D Streets of Rage.mp3"
+      "name": "3D Streets of Rage",
+      "file": "3D Streets of Rage.mp3"
     },
     {
-      "game": "3D Super Hang-On",
-      "file": "audio/3D Super Hang-On.mp3"
+      "name": "3D Super Hang-On",
+      "file": "3D Super Hang-On.mp3"
     },
     {
-      "game": "3D Thunder Blade",
-      "file": "audio/3D Thunder Blade.mp3"
+      "name": "3D Thunder Blade",
+      "file": "3D Thunder Blade.mp3"
     },
     {
-      "game": "3D Visual Experience",
-      "file": "audio/3D Visual Experience.mp3"
+      "name": "3D Visual Experience",
+      "file": "3D Visual Experience.mp3"
     },
     {
-      "game": "50 Pinch Barrage",
-      "file": "audio/50 Pinch Barrage.mp3"
+      "name": "50 Pinch Barrage",
+      "file": "50 Pinch Barrage.mp3"
     },
     {
-      "game": "7th Dragon III Code - VFD",
-      "file": "audio/7th Dragon III Code - VFD.mp3"
+      "name": "7th Dragon III Code - VFD",
+      "file": "7th Dragon III Code - VFD.mp3"
     },
     {
-      "game": "Adventure Bar Story",
-      "file": "audio/Adventure Bar Story.mp3"
+      "name": "Adventure Bar Story",
+      "file": "Adventure Bar Story.mp3"
     },
     {
-      "game": "Aero Porter",
-      "file": "audio/Aero Porter.mp3"
+      "name": "Aero Porter",
+      "file": "Aero Porter.mp3"
     },
     {
-      "game": "AeternoBlade",
-      "file": "audio/AeternoBlade.mp3"
+      "name": "AeternoBlade",
+      "file": "AeternoBlade.mp3"
     },
     {
-      "game": "Alien on the Run",
-      "file": "audio/Alien on the Run.mp3"
+      "name": "Alien on the Run",
+      "file": "Alien on the Run.mp3"
     },
     {
-      "game": "Alphadia",
-      "file": "audio/Alphadia.mp3"
+      "name": "Alphadia",
+      "file": "Alphadia.mp3"
     },
     {
-      "game": "Ambassador Certificate",
-      "file": "audio/Ambassador Certificate.mp3"
+      "name": "Ambassador Certificate",
+      "file": "Ambassador Certificate.mp3"
     },
     {
-      "game": "Angry Video Game Nerd Adventures The",
-      "file": "audio/Angry Video Game Nerd Adventures The.mp3"
+      "name": "Angry Video Game Nerd Adventures The",
+      "file": "Angry Video Game Nerd Adventures The.mp3"
     },
     {
-      "game": "Animal Crossing - New Leaf",
-      "file": "audio/Animal Crossing - New Leaf (new).mp3"
+      "name": "Animal Crossing - New Leaf",
+      "file": "Animal Crossing - New Leaf (new).mp3"
     },
     {
-      "game": "Art of Balance TOUCH",
-      "file": "audio/Art of Balance TOUCH.mp3"
+      "name": "Art of Balance TOUCH",
+      "file": "Art of Balance TOUCH.mp3"
     },
     {
-      "game": "Attack of the Friday Monsters A Tokyo Tale",
-      "file": "audio/Attack of the Friday Monsters A Tokyo Tale.mp3"
+      "name": "Attack of the Friday Monsters A Tokyo Tale",
+      "file": "Attack of the Friday Monsters A Tokyo Tale.mp3"
     },
     {
-      "game": "Attack on Titan - Humanity in Chains",
-      "file": "audio/Attack on Titan - Humanity in Chains.mp3"
+      "name": "Attack on Titan - Humanity in Chains",
+      "file": "Attack on Titan - Humanity in Chains.mp3"
     },
     {
-      "game": "ATV Wild Ride",
-      "file": "audio/ATV Wild Ride.mp3"
+      "name": "ATV Wild Ride",
+      "file": "ATV Wild Ride.mp3"
     },
     {
-      "game": "Azure Striker Gunvolt",
-      "file": "audio/Azure Striker Gunvolt.mp3"
+      "name": "Azure Striker Gunvolt",
+      "file": "Azure Striker Gunvolt.mp3"
     },
     {
-      "game": "Balloon Fight",
-      "file": "audio/Balloon Fight Rev 2.mp3"
+      "name": "Balloon Fight",
+      "file": "Balloon Fight Rev 2.mp3"
     },
     {
-      "game": "Battleminer",
-      "file": "audio/Battleminer.mp3"
+      "name": "Battleminer",
+      "file": "Battleminer.mp3"
     },
     {
-      "game": "Bike Rider DX",
-      "file": "audio/Bike Rider DX.mp3"
+      "name": "Bike Rider DX",
+      "file": "Bike Rider DX.mp3"
     },
     {
-      "game": "Bike Rider DX2 - Galaxy",
-      "file": "audio/Bike Rider DX2 - Galaxy.mp3"
+      "name": "Bike Rider DX2 - Galaxy",
+      "file": "Bike Rider DX2 - Galaxy.mp3"
     },
     {
-      "game": "Bird Mania Christmas 3D",
-      "file": "audio/Bird Mania Christmas 3D.mp3"
+      "name": "Bird Mania Christmas 3D",
+      "file": "Bird Mania Christmas 3D.mp3"
     },
     {
-      "game": "Bit Boy Arcade",
-      "file": "audio/Bit Boy Arcade.mp3"
+      "name": "Bit Boy Arcade",
+      "file": "Bit Boy Arcade.mp3"
     },
     {
-      "game": "Blast Em Bunnies",
-      "file": "audio/Blast Em Bunnies.mp3"
+      "name": "Blast Em Bunnies",
+      "file": "Blast Em Bunnies.mp3"
     },
     {
-      "game": "BlazBlue - Clone Phantasma",
-      "file": "audio/BlazBlue - Clone Phantasma.mp3"
+      "name": "BlazBlue - Clone Phantasma",
+      "file": "BlazBlue - Clone Phantasma.mp3"
     },
     {
-      "game": "Bomb Monkey",
-      "file": "audio/Bomb Monkey.mp3"
+      "name": "Bomb Monkey",
+      "file": "Bomb Monkey.mp3"
     },
     {
-      "game": "Boulder Dash-XL 3D",
-      "file": "audio/Boulder Dash-XL 3D.mp3"
+      "name": "Boulder Dash-XL 3D",
+      "file": "Boulder Dash-XL 3D.mp3"
     },
     {
-      "game": "BOXBOY",
-      "file": "audio/BOXBOY.mp3"
+      "name": "BOXBOY",
+      "file": "BOXBOY.mp3"
     },
     {
-      "game": "Brave Tank Hero",
-      "file": "audio/Brave Tank Hero.mp3"
+      "name": "Brave Tank Hero",
+      "file": "Brave Tank Hero.mp3"
     },
     {
-      "game": "Castle Conqueror Defender",
-      "file": "audio/Castle Conqueror Defender.mp3"
+      "name": "Castle Conqueror Defender",
+      "file": "Castle Conqueror Defender.mp3"
     },
     {
-      "game": "Castle Conqueror EX",
-      "file": "audio/Castle Conqueror EX.mp3"
+      "name": "Castle Conqueror EX",
+      "file": "Castle Conqueror EX.mp3"
     },
     {
-      "game": "Cave Story",
-      "file": "audio/Cave Story Rev 1.mp3"
+      "name": "Cave Story",
+      "file": "Cave Story Rev 1.mp3"
     },
     {
-      "game": "Chain Blaster",
-      "file": "audio/Chain Blaster.mp3"
+      "name": "Chain Blaster",
+      "file": "Chain Blaster.mp3"
     },
     {
-      "game": "Chat-A-Lot",
-      "file": "audio/Chat-A-Lot.mp3"
+      "name": "Chat-A-Lot",
+      "file": "Chat-A-Lot.mp3"
     },
     {
-      "game": "Chibi-Robo Photo Finder",
-      "file": "audio/Chibi-Robo Photo Finder Rev 1.mp3"
+      "name": "Chibi-Robo Photo Finder",
+      "file": "Chibi-Robo Photo Finder Rev 1.mp3"
     },
     {
-      "game": "Citizens of Earth",
-      "file": "audio/Citizens of Earth Rev 1.mp3"
+      "name": "Citizens of Earth",
+      "file": "Citizens of Earth Rev 1.mp3"
     },
     {
-      "game": "Color Zen",
-      "file": "audio/Color Zen.mp3"
+      "name": "Color Zen",
+      "file": "Color Zen.mp3"
     },
     {
-      "game": "Colors 3D",
-      "file": "audio/Colors 3D Rev 1.mp3"
+      "name": "Colors 3D",
+      "file": "Colors 3D Rev 1.mp3"
     },
     {
-      "game": "Crashmo",
-      "file": "audio/Crashmo.mp3"
+      "name": "Crashmo",
+      "file": "Crashmo.mp3"
     },
     {
-      "game": "Crimson Shroud",
-      "file": "audio/Crimson Shroud.mp3"
+      "name": "Crimson Shroud",
+      "file": "Crimson Shroud.mp3"
     },
     {
-      "game": "Cube Creator 3D",
-      "file": "audio/Cube Creator 3D Rev 1.mp3"
+      "name": "Cube Creator 3D",
+      "file": "Cube Creator 3D Rev 1.mp3"
     },
     {
-      "game": "Cube Tactics",
-      "file": "audio/Cube Tactics.mp3"
+      "name": "Cube Tactics",
+      "file": "Cube Tactics.mp3"
     },
     {
-      "game": "Cubit - The Hardcore Platformer Robot",
-      "file": "audio/Cubit - The Hardcore Platformer Robot.mp3"
+      "name": "Cubit - The Hardcore Platformer Robot",
+      "file": "Cubit - The Hardcore Platformer Robot.mp3"
     },
     {
-      "game": "Cut the Rope",
-      "file": "audio/Cut the Rope.mp3"
+      "name": "Cut the Rope",
+      "file": "Cut the Rope.mp3"
     },
     {
-      "game": "Darts Up 3D",
-      "file": "audio/Darts Up 3D.mp3"
+      "name": "Darts Up 3D",
+      "file": "Darts Up 3D.mp3"
     },
     {
-      "game": "Dededes Drum Dash Deluxe",
-      "file": "audio/Dededes Drum Dash Deluxe.mp3"
+      "name": "Dededes Drum Dash Deluxe",
+      "file": "Dededes Drum Dash Deluxe.mp3"
     },
     {
-      "game": "Deer Hunting King",
-      "file": "audio/Deer Hunting King.mp3"
+      "name": "Deer Hunting King",
+      "file": "Deer Hunting King.mp3"
     },
     {
-      "game": "Dementium Remastered",
-      "file": "audio/Dementium Remastered.mp3"
+      "name": "Dementium Remastered",
+      "file": "Dementium Remastered.mp3"
     },
     {
-      "game": "Demon King Box",
-      "file": "audio/Demon King Box.mp3"
+      "name": "Demon King Box",
+      "file": "Demon King Box.mp3"
     },
     {
-      "game": "Dillons Rolling Western - The Last Ranger",
-      "file": "audio/Dillons Rolling Western - The Last Ranger.mp3"
+      "name": "Dillons Rolling Western - The Last Ranger",
+      "file": "Dillons Rolling Western - The Last Ranger.mp3"
     },
     {
-      "game": "Dillons Rolling Western",
-      "file": "audio/Dillons Rolling Western.mp3"
+      "name": "Dillons Rolling Western",
+      "file": "Dillons Rolling Western.mp3"
     },
     {
-      "game": "Donkey Kong - Original Edition",
-      "file": "audio/Donkey Kong - Original Edition.mp3"
+      "name": "Donkey Kong - Original Edition",
+      "file": "Donkey Kong - Original Edition.mp3"
     },
     {
-      "game": "Donkey Kong",
-      "file": "audio/Donkey Kong Rev 1.mp3"
+      "name": "Donkey Kong",
+      "file": "Donkey Kong Rev 1.mp3"
     },
     {
-      "game": "DOOORS",
-      "file": "audio/DOOORS.mp3"
+      "name": "DOOORS",
+      "file": "DOOORS.mp3"
     },
     {
-      "game": "Dragon Fantasy - The Volumes of Westeria",
-      "file": "audio/Dragon Fantasy - The Volumes of Westeria.mp3"
+      "name": "Dragon Fantasy - The Volumes of Westeria",
+      "file": "Dragon Fantasy - The Volumes of Westeria.mp3"
     },
     {
-      "game": "Drop Zone - Under Fire",
-      "file": "audio/Drop Zone - Under Fire.mp3"
+      "name": "Drop Zone - Under Fire",
+      "file": "Drop Zone - Under Fire.mp3"
     },
     {
-      "game": "Edge",
-      "file": "audio/Edge.mp3"
+      "name": "Edge",
+      "file": "Edge.mp3"
     },
     {
-      "game": "Escape From Zombie City ",
-      "file": "audio/Escape From Zombie City .mp3"
+      "name": "Escape From Zombie City ",
+      "file": "Escape From Zombie City .mp3"
     },
     {
-      "game": "European Conqueror 3D",
-      "file": "audio/European Conqueror 3D.mp3"
+      "name": "European Conqueror 3D",
+      "file": "European Conqueror 3D.mp3"
     },
     {
-      "game": "Excave II - Wizard of the Underworld",
-      "file": "audio/Excave II - Wizard of the Underworld.mp3"
+      "name": "Excave II - Wizard of the Underworld",
+      "file": "Excave II - Wizard of the Underworld.mp3"
     },
     {
-      "game": "Excave",
-      "file": "audio/Excave.mp3"
+      "name": "Excave",
+      "file": "Excave.mp3"
     },
     {
-      "game": "F-Zero - Maximum Velocity",
-      "file": "audio/F-Zero - Maximum Velocity.mp3"
+      "name": "F-Zero - Maximum Velocity",
+      "file": "F-Zero - Maximum Velocity.mp3"
     },
     {
-      "game": "Fairune",
-      "file": "audio/Fairune.mp3"
+      "name": "Fairune",
+      "file": "Fairune.mp3"
     },
     {
-      "game": "Family Bowling 3D",
-      "file": "audio/Family Bowling 3D.mp3"
+      "name": "Family Bowling 3D",
+      "file": "Family Bowling 3D.mp3"
     },
     {
-      "game": "Fire Emblem - The Sacred Stones",
-      "file": "audio/Fire Emblem - The Sacred Stones.mp3"
+      "name": "Fire Emblem - The Sacred Stones",
+      "file": "Fire Emblem - The Sacred Stones.mp3"
     },
     {
-      "game": "Fire Emblem Awakening",
-      "file": "audio/Fire Emblem Awakening.mp3"
+      "name": "Fire Emblem Awakening",
+      "file": "Fire Emblem Awakening.mp3"
     },
     {
-      "game": "Flipnote Studio 3D",
-      "file": "audio/Flipnote Studio 3D.mp3"
+      "name": "Flipnote Studio 3D",
+      "file": "Flipnote Studio 3D.mp3"
     },
     {
-      "game": "Fluidity - Spin Cycle",
-      "file": "audio/Fluidity - Spin Cycle.mp3"
+      "name": "Fluidity - Spin Cycle",
+      "file": "Fluidity - Spin Cycle.mp3"
     },
     {
-      "game": "Fortified Zone",
-      "file": "audio/Fortified Zone Rev 1.mp3"
+      "name": "Fortified Zone",
+      "file": "Fortified Zone Rev 1.mp3"
     },
     {
-      "game": "Freakyforms - Your Creations Alive",
-      "file": "audio/Freakyforms - Your Creations Alive Rev 2.mp3"
+      "name": "Freakyforms - Your Creations Alive",
+      "file": "Freakyforms - Your Creations Alive Rev 2.mp3"
     },
     {
-      "game": "Gotcha Racing",
-      "file": "audio/Gotcha Racing.mp3"
+      "name": "Gotcha Racing",
+      "file": "Gotcha Racing.mp3"
     },
     {
-      "game": "Gunman Clive 2",
-      "file": "audio/Gunman Clive 2.mp3"
+      "name": "Gunman Clive 2",
+      "file": "Gunman Clive 2.mp3"
     },
     {
-      "game": "Gunman Clive",
-      "file": "audio/Gunman Clive Rev 1.mp3"
+      "name": "Gunman Clive",
+      "file": "Gunman Clive Rev 1.mp3"
     },
     {
-      "game": "Gunslugs 2",
-      "file": "audio/Gunslugs 2.mp3"
+      "name": "Gunslugs 2",
+      "file": "Gunslugs 2.mp3"
     },
     {
-      "game": "HarmoKnight",
-      "file": "audio/HarmoKnight.mp3"
+      "name": "HarmoKnight",
+      "file": "HarmoKnight.mp3"
     },
     {
-      "game": "Hazumi",
-      "file": "audio/Hazumi.mp3"
+      "name": "Hazumi",
+      "file": "Hazumi.mp3"
     },
     {
-      "game": "Hulu Plus",
-      "file": "audio/Hulu Plus.mp3"
+      "name": "Hulu Plus",
+      "file": "Hulu Plus.mp3"
     },
     {
-      "game": "Ice Climber",
-      "file": "audio/Ice Climber Rev 2.mp3"
+      "name": "Ice Climber",
+      "file": "Ice Climber Rev 2.mp3"
     },
     {
-      "game": "Ikachan",
-      "file": "audio/Ikachan.mp3"
+      "name": "Ikachan",
+      "file": "Ikachan.mp3"
     },
     {
-      "game": "Inazuma Eleven",
-      "file": "audio/Inazuma Eleven.mp3"
+      "name": "Inazuma Eleven",
+      "file": "Inazuma Eleven.mp3"
     },
     {
-      "game": "Iron Combat - War in the Air",
-      "file": "audio/Iron Combat - War in the Air.mp3"
+      "name": "Iron Combat - War in the Air",
+      "file": "Iron Combat - War in the Air.mp3"
     },
     {
-      "game": "IRONFALL Invasion",
-      "file": "audio/IRONFALL Invasion Rev 2.mp3"
+      "name": "IRONFALL Invasion",
+      "file": "IRONFALL Invasion Rev 2.mp3"
     },
     {
-      "game": "Ive Got to Run - Complete Edition",
-      "file": "audio/Ive Got to Run - Complete Edition.mp3"
+      "name": "Ive Got to Run - Complete Edition",
+      "file": "Ive Got to Run - Complete Edition.mp3"
     },
     {
-      "game": "Japanese Rail Sim 3D - Journey in Suburbs 1",
-      "file": "audio/Japanese Rail Sim 3D - Journey in Suburbs 1.mp3"
+      "name": "Japanese Rail Sim 3D - Journey in Suburbs 1",
+      "file": "Japanese Rail Sim 3D - Journey in Suburbs 1.mp3"
     },
     {
-      "game": "Johnny HotShot",
-      "file": "audio/Johnny HotShot.mp3"
+      "name": "Johnny HotShot",
+      "file": "Johnny HotShot.mp3"
     },
     {
-      "game": "Johnny Kung Fu",
-      "file": "audio/Johnny Kung Fu.mp3"
+      "name": "Johnny Kung Fu",
+      "file": "Johnny Kung Fu.mp3"
     },
     {
-      "game": "Justice Chronicles",
-      "file": "audio/Justice Chronicles.mp3"
+      "name": "Justice Chronicles",
+      "file": "Justice Chronicles.mp3"
     },
     {
-      "game": "KAMI",
-      "file": "audio/KAMI.mp3"
+      "name": "KAMI",
+      "file": "KAMI.mp3"
     },
     {
-      "game": "Keep The",
-      "file": "audio/Keep The.mp3"
+      "name": "Keep The",
+      "file": "Keep The.mp3"
     },
     {
-      "game": "KemonoMix Plus",
-      "file": "audio/KemonoMix Plus.mp3"
+      "name": "KemonoMix Plus",
+      "file": "KemonoMix Plus.mp3"
     },
     {
-      "game": "Kersploosh",
-      "file": "audio/Kersploosh.mp3"
+      "name": "Kersploosh",
+      "file": "Kersploosh.mp3"
     },
     {
-      "game": "Ketzals Corridors",
-      "file": "audio/Ketzals Corridors.mp3"
+      "name": "Ketzals Corridors",
+      "file": "Ketzals Corridors.mp3"
     },
     {
-      "game": "Kirby - Planet Robobot",
-      "file": "audio/Kirby - Planet Robobot.mp3"
+      "name": "Kirby - Planet Robobot",
+      "file": "Kirby - Planet Robobot.mp3"
     },
     {
-      "game": "Kirby - Right Back At Ya",
-      "file": "audio/Kirby - Right Back At Ya.mp3"
+      "name": "Kirby - Right Back At Ya",
+      "file": "Kirby - Right Back At Ya.mp3"
     },
     {
-      "game": "Kirby Blowout Blast",
-      "file": "audio/Kirby Blowout Blast.mp3"
+      "name": "Kirby Blowout Blast",
+      "file": "Kirby Blowout Blast.mp3"
     },
     {
-      "game": "Kirby Fighters Deluxe",
-      "file": "audio/Kirby Fighters Deluxe.mp3"
+      "name": "Kirby Fighters Deluxe",
+      "file": "Kirby Fighters Deluxe.mp3"
     },
     {
-      "game": "Kirby the Amazing Mirror",
-      "file": "audio/Kirby the Amazing Mirror.mp3"
+      "name": "Kirby the Amazing Mirror",
+      "file": "Kirby the Amazing Mirror.mp3"
     },
     {
-      "game": "Kirbys Block Ball",
-      "file": "audio/Kirbys Block Ball.mp3"
+      "name": "Kirbys Block Ball",
+      "file": "Kirbys Block Ball.mp3"
     },
     {
-      "game": "Kirbys Dream Land",
-      "file": "audio/Kirbys Dream Land Rev 1.mp3"
+      "name": "Kirbys Dream Land",
+      "file": "Kirbys Dream Land Rev 1.mp3"
     },
     {
-      "game": "Kokuga ",
-      "file": "audio/Kokuga .mp3"
+      "name": "Kokuga ",
+      "file": "Kokuga .mp3"
     },
     {
-      "game": "KORG DSN 12",
-      "file": "audio/KORG DSN 12.mp3"
+      "name": "KORG DSN 12",
+      "file": "KORG DSN 12.mp3"
     },
     {
-      "game": "KORG M01D",
-      "file": "audio/KORG M01D.mp3"
+      "name": "KORG M01D",
+      "file": "KORG M01D.mp3"
     },
     {
-      "game": "Kung Fu Rabbit",
-      "file": "audio/Kung Fu Rabbit.mp3"
+      "name": "Kung Fu Rabbit",
+      "file": "Kung Fu Rabbit.mp3"
     },
     {
-      "game": "League of Heroes ",
-      "file": "audio/League of Heroes .mp3"
+      "name": "League of Heroes ",
+      "file": "League of Heroes .mp3"
     },
     {
-      "game": "Legend of Dark Witch 2 The",
-      "file": "audio/Legend of Dark Witch 2 The.mp3"
+      "name": "Legend of Dark Witch 2 The",
+      "file": "Legend of Dark Witch 2 The.mp3"
     },
     {
-      "game": "Legend of Dark Witch The",
-      "file": "audio/Legend of Dark Witch The.mp3"
+      "name": "Legend of Dark Witch The",
+      "file": "Legend of Dark Witch The.mp3"
     },
     {
-      "game": "Legend of Zelda The - Oracle of Ages",
-      "file": "audio/Legend of Zelda The - Oracle of Ages.mp3"
+      "name": "Legend of Zelda The - Oracle of Ages",
+      "file": "Legend of Zelda The - Oracle of Ages.mp3"
     },
     {
-      "game": "Legend of Zelda The - Oracle of Seasons",
-      "file": "audio/Legend of Zelda The - Oracle of Seasons.mp3"
+      "name": "Legend of Zelda The - Oracle of Seasons",
+      "file": "Legend of Zelda The - Oracle of Seasons.mp3"
     },
     {
-      "game": "Legend of Zelda The - The Minish Cap",
-      "file": "audio/Legend of Zelda The - The Minish Cap.mp3"
+      "name": "Legend of Zelda The - The Minish Cap",
+      "file": "Legend of Zelda The - The Minish Cap.mp3"
     },
     {
-      "game": "Legend of Zelda The",
-      "file": "audio/Legend of Zelda The Rev 2.mp3"
+      "name": "Legend of Zelda The",
+      "file": "Legend of Zelda The Rev 2.mp3"
     },
     {
-      "game": "Lets Golf 3D",
-      "file": "audio/Lets Golf 3D.mp3"
+      "name": "Lets Golf 3D",
+      "file": "Lets Golf 3D.mp3"
     },
     {
-      "game": "Liberation Maiden",
-      "file": "audio/Liberation Maiden.mp3"
+      "name": "Liberation Maiden",
+      "file": "Liberation Maiden.mp3"
     },
     {
-      "game": "Lionel City Builder 3D - Rise of the Rails",
-      "file": "audio/Lionel City Builder 3D - Rise of the Rails.mp3"
+      "name": "Lionel City Builder 3D - Rise of the Rails",
+      "file": "Lionel City Builder 3D - Rise of the Rails.mp3"
     },
     {
-      "game": "Lufia - The Legend Returns",
-      "file": "audio/Lufia - The Legend Returns.mp3"
+      "name": "Lufia - The Legend Returns",
+      "file": "Lufia - The Legend Returns.mp3"
     },
     {
-      "game": "Luigis Mansion - Dark Moon",
-      "file": "audio/Luigis Mansion - Dark Moon.mp3"
+      "name": "Luigis Mansion - Dark Moon",
+      "file": "Luigis Mansion - Dark Moon.mp3"
     },
     {
-      "game": "Magic Hammer The",
-      "file": "audio/Magic Hammer The.mp3"
+      "name": "Magic Hammer The",
+      "file": "Magic Hammer The.mp3"
     },
     {
-      "game": "Mahjong 3D - Essentials",
-      "file": "audio/Mahjong 3D - Essentials.mp3"
+      "name": "Mahjong 3D - Essentials",
+      "file": "Mahjong 3D - Essentials.mp3"
     },
     {
-      "game": "Mario and Donkey Kong - Minis on the Move",
-      "file": "audio/Mario and Donkey Kong - Minis on the Move.mp3"
+      "name": "Mario and Donkey Kong - Minis on the Move",
+      "file": "Mario and Donkey Kong - Minis on the Move.mp3"
     },
     {
-      "game": "Mario Kart - Super Circuit",
-      "file": "audio/Mario Kart - Super Circuit.mp3"
+      "name": "Mario Kart - Super Circuit",
+      "file": "Mario Kart - Super Circuit.mp3"
     },
     {
-      "game": "Mario Kart 7",
-      "file": "audio/Mario Kart 7.mp3"
+      "name": "Mario Kart 7",
+      "file": "Mario Kart 7.mp3"
     },
     {
-      "game": "Mario Luigi - Dream Team",
-      "file": "audio/Mario Luigi - Dream Team.mp3"
+      "name": "Mario Luigi - Dream Team",
+      "file": "Mario Luigi - Dream Team.mp3"
     },
     {
-      "game": "Mario Luigi - Superstar Saga Bowsers Minions",
-      "file": "audio/Mario Luigi - Superstar Saga Bowsers Minions.mp3"
+      "name": "Mario Luigi - Superstar Saga Bowsers Minions",
+      "file": "Mario Luigi - Superstar Saga Bowsers Minions.mp3"
     },
     {
-      "game": "Mario vs Donkey Kong - Tipping Stars",
-      "file": "audio/Mario vs Donkey Kong - Tipping Stars.mp3"
+      "name": "Mario vs Donkey Kong - Tipping Stars",
+      "file": "Mario vs Donkey Kong - Tipping Stars.mp3"
     },
     {
-      "game": "Marvel Pinball 3D",
-      "file": "audio/Marvel Pinball 3D.mp3"
+      "name": "Marvel Pinball 3D",
+      "file": "Marvel Pinball 3D.mp3"
     },
     {
-      "game": "Mega Man 2",
-      "file": "audio/Mega Man 2.mp3"
+      "name": "Mega Man 2",
+      "file": "Mega Man 2.mp3"
     },
     {
-      "game": "Mega Man II",
-      "file": "audio/Mega Man II.mp3"
+      "name": "Mega Man II",
+      "file": "Mega Man II.mp3"
     },
     {
-      "game": "Mega Man III",
-      "file": "audio/Mega Man III.mp3"
+      "name": "Mega Man III",
+      "file": "Mega Man III.mp3"
     },
     {
-      "game": "Mega Man IV",
-      "file": "audio/Mega Man IV.mp3"
+      "name": "Mega Man IV",
+      "file": "Mega Man IV.mp3"
     },
     {
-      "game": "Mega Man V",
-      "file": "audio/Mega Man V.mp3"
+      "name": "Mega Man V",
+      "file": "Mega Man V.mp3"
     },
     {
-      "game": "Mega Man VI",
-      "file": "audio/Mega Man VI.mp3"
+      "name": "Mega Man VI",
+      "file": "Mega Man VI.mp3"
     },
     {
-      "game": "Mega Man Xtreme 2",
-      "file": "audio/Mega Man Xtreme 2.mp3"
+      "name": "Mega Man Xtreme 2",
+      "file": "Mega Man Xtreme 2.mp3"
     },
     {
-      "game": "Mega Man Xtreme",
-      "file": "audio/Mega Man Xtreme.mp3"
+      "name": "Mega Man Xtreme",
+      "file": "Mega Man Xtreme.mp3"
     },
     {
-      "game": "Mes Comptines",
-      "file": "audio/Mes Comptines.mp3"
+      "name": "Mes Comptines",
+      "file": "Mes Comptines.mp3"
     },
     {
-      "game": "Metroid Fusion",
-      "file": "audio/Metroid Fusion.mp3"
+      "name": "Metroid Fusion",
+      "file": "Metroid Fusion.mp3"
     },
     {
-      "game": "Metroid II - Return of Samus",
-      "file": "audio/Metroid II - Return of Samus Rev 1.mp3"
+      "name": "Metroid II - Return of Samus",
+      "file": "Metroid II - Return of Samus Rev 1.mp3"
     },
     {
-      "game": "Metroid",
-      "file": "audio/Metroid Rev 2.mp3"
+      "name": "Metroid",
+      "file": "Metroid Rev 2.mp3"
     },
     {
-      "game": "Mighty Final Fight",
-      "file": "audio/Mighty Final Fight.mp3"
+      "name": "Mighty Final Fight",
+      "file": "Mighty Final Fight.mp3"
     },
     {
-      "game": "Mighty Gunvolt",
-      "file": "audio/Mighty Gunvolt.mp3"
+      "name": "Mighty Gunvolt",
+      "file": "Mighty Gunvolt.mp3"
     },
     {
-      "game": "Mighty Switch Force 2",
-      "file": "audio/Mighty Switch Force 2.mp3"
+      "name": "Mighty Switch Force 2",
+      "file": "Mighty Switch Force 2.mp3"
     },
     {
-      "game": "Mighty Switch Force",
-      "file": "audio/Mighty Switch Force.mp3"
+      "name": "Mighty Switch Force",
+      "file": "Mighty Switch Force.mp3"
     },
     {
-      "game": "Mini-Mario Friends - amiibo Challenge",
-      "file": "audio/Mini-Mario Friends - amiibo Challenge.mp3"
+      "name": "Mini-Mario Friends - amiibo Challenge",
+      "file": "Mini-Mario Friends - amiibo Challenge.mp3"
     },
     {
-      "game": "Monster Hunter 3 Ultimate Data Transfer Program",
-      "file": "audio/Monster Hunter 3 Ultimate Data Transfer Program.mp3"
+      "name": "Monster Hunter 3 Ultimate Data Transfer Program",
+      "file": "Monster Hunter 3 Ultimate Data Transfer Program.mp3"
     },
     {
-      "game": "Monster Hunter 4 Ultimate",
-      "file": "audio/Monster Hunter 4 Ultimate.mp3"
+      "name": "Monster Hunter 4 Ultimate",
+      "file": "Monster Hunter 4 Ultimate.mp3"
     },
     {
-      "game": "Moon Chronicles",
-      "file": "audio/Moon Chronicles Rev 1.mp3"
+      "name": "Moon Chronicles",
+      "file": "Moon Chronicles Rev 1.mp3"
     },
     {
-      "game": "Musicverse - Electronic Keyboard",
-      "file": "audio/Musicverse - Electronic Keyboard.mp3"
+      "name": "Musicverse - Electronic Keyboard",
+      "file": "Musicverse - Electronic Keyboard.mp3"
     },
     {
-      "game": "Mutant Mudds - Super Challenge",
-      "file": "audio/Mutant Mudds - Super Challenge.mp3"
+      "name": "Mutant Mudds - Super Challenge",
+      "file": "Mutant Mudds - Super Challenge.mp3"
     },
     {
-      "game": "Mutant Mudds",
-      "file": "audio/Mutant Mudds.mp3"
+      "name": "Mutant Mudds",
+      "file": "Mutant Mudds.mp3"
     },
     {
-      "game": "My First Songs",
-      "file": "audio/My First Songs.mp3"
+      "name": "My First Songs",
+      "file": "My First Songs.mp3"
     },
     {
-      "game": "My Nintendo Picross - The Legend of Zelda - Twilight Princess",
-      "file": "audio/My Nintendo Picross - The Legend of Zelda - Twilight Princess.mp3"
+      "name": "My Nintendo Picross - The Legend of Zelda - Twilight Princess",
+      "file": "My Nintendo Picross - The Legend of Zelda - Twilight Princess.mp3"
     },
     {
-      "game": "My Style Studio - Hair Salon",
-      "file": "audio/My Style Studio - Hair Salon.mp3"
+      "name": "My Style Studio - Hair Salon",
+      "file": "My Style Studio - Hair Salon.mp3"
     },
     {
-      "game": "Nano Assault EX",
-      "file": "audio/Nano Assault EX.mp3"
+      "name": "Nano Assault EX",
+      "file": "Nano Assault EX.mp3"
     },
     {
-      "game": "NES Open Tournament Golf",
-      "file": "audio/NES Open Tournament Golf Rev 2.mp3"
+      "name": "NES Open Tournament Golf",
+      "file": "NES Open Tournament Golf Rev 2.mp3"
     },
     {
-      "game": "Netflix",
-      "file": "audio/Netflix Rev 2.mp3"
+      "name": "Netflix",
+      "file": "Netflix Rev 2.mp3"
     },
     {
-      "game": "New Super Mario Bros. 2 Gold Edition",
-      "file": "audio/New Super Mario Bros. 2 Gold Edition.mp3"
+      "name": "New Super Mario Bros. 2 Gold Edition",
+      "file": "New Super Mario Bros. 2 Gold Edition.mp3"
     },
     {
-      "game": "NightSky",
-      "file": "audio/NightSky.mp3"
+      "name": "NightSky",
+      "file": "NightSky.mp3"
     },
     {
-      "game": "Ninja Battle Heroes",
-      "file": "audio/Ninja Battle Heroes.mp3"
+      "name": "Ninja Battle Heroes",
+      "file": "Ninja Battle Heroes.mp3"
     },
     {
-      "game": "Ninja Usagimaru - The Gem of Blessings",
-      "file": "audio/Ninja Usagimaru - The Gem of Blessings.mp3"
+      "name": "Ninja Usagimaru - The Gem of Blessings",
+      "file": "Ninja Usagimaru - The Gem of Blessings.mp3"
     },
     {
-      "game": "Nintendo Badge Arcade",
-      "file": "audio/Nintendo Badge Arcade.mp3"
+      "name": "Nintendo Badge Arcade",
+      "file": "Nintendo Badge Arcade.mp3"
     },
     {
-      "game": "Nintendo",
-      "file": "audio/Nintendo.mp3"
+      "name": "Nintendo",
+      "file": "Nintendo.mp3"
     },
     {
-      "game": "Olli Olli",
-      "file": "audio/Olli Olli.mp3"
+      "name": "Olli Olli",
+      "file": "Olli Olli.mp3"
     },
     {
-      "game": "Order Up",
-      "file": "audio/Order Up.mp3"
+      "name": "Order Up",
+      "file": "Order Up.mp3"
     },
     {
-      "game": "Outdoors Unleashed - Africa 3D",
-      "file": "audio/Outdoors Unleashed - Africa 3D.mp3"
+      "name": "Outdoors Unleashed - Africa 3D",
+      "file": "Outdoors Unleashed - Africa 3D.mp3"
     },
     {
-      "game": "Parascientific Escape Cruise in the Distant Seas",
-      "file": "audio/Parascientific Escape Cruise in the Distant Seas.mp3"
+      "name": "Parascientific Escape Cruise in the Distant Seas",
+      "file": "Parascientific Escape Cruise in the Distant Seas.mp3"
     },
     {
-      "game": "Petit Novel Series - Harvest December",
-      "file": "audio/Petit Novel Series - Harvest December.mp3"
+      "name": "Petit Novel Series - Harvest December",
+      "file": "Petit Novel Series - Harvest December.mp3"
     },
     {
-      "game": "Phoenix Wright - Ace Attorney - Dual Destinies",
-      "file": "audio/Phoenix Wright - Ace Attorney - Dual Destinies.mp3"
+      "name": "Phoenix Wright - Ace Attorney - Dual Destinies",
+      "file": "Phoenix Wright - Ace Attorney - Dual Destinies.mp3"
     },
     {
-      "game": "Phoenix Wright - Ace Attorney Trilogy",
-      "file": "audio/Phoenix Wright - Ace Attorney Trilogy.mp3"
+      "name": "Phoenix Wright - Ace Attorney Trilogy",
+      "file": "Phoenix Wright - Ace Attorney Trilogy.mp3"
     },
     {
-      "game": "Photos with Mario",
-      "file": "audio/Photos with Mario.mp3"
+      "name": "Photos with Mario",
+      "file": "Photos with Mario.mp3"
     },
     {
-      "game": "Picdun 2 - Witchs Curse",
-      "file": "audio/Picdun 2 - Witchs Curse.mp3"
+      "name": "Picdun 2 - Witchs Curse",
+      "file": "Picdun 2 - Witchs Curse.mp3"
     },
     {
-      "game": "Picross e",
-      "file": "audio/Picross e.mp3"
+      "name": "Picross e",
+      "file": "Picross e.mp3"
     },
     {
-      "game": "Picross e2",
-      "file": "audio/Picross e2.mp3"
+      "name": "Picross e2",
+      "file": "Picross e2.mp3"
     },
     {
-      "game": "Picross e3",
-      "file": "audio/Picross e3.mp3"
+      "name": "Picross e3",
+      "file": "Picross e3.mp3"
     },
     {
-      "game": "Picross e4",
-      "file": "audio/Picross e4.mp3"
+      "name": "Picross e4",
+      "file": "Picross e4.mp3"
     },
     {
-      "game": "Picross e5",
-      "file": "audio/Picross e5.mp3"
+      "name": "Picross e5",
+      "file": "Picross e5.mp3"
     },
     {
-      "game": "Picross e6",
-      "file": "audio/Picross e6.mp3"
+      "name": "Picross e6",
+      "file": "Picross e6.mp3"
     },
     {
-      "game": "Pikmin Short Movies 3D",
-      "file": "audio/Pikmin Short Movies 3D.mp3"
+      "name": "Pikmin Short Movies 3D",
+      "file": "Pikmin Short Movies 3D.mp3"
     },
     {
-      "game": "PIX3D",
-      "file": "audio/PIX3D.mp3"
+      "name": "PIX3D",
+      "file": "PIX3D.mp3"
     },
     {
-      "game": "Pocket Card Jockey",
-      "file": "audio/Pocket Card Jockey.mp3"
+      "name": "Pocket Card Jockey",
+      "file": "Pocket Card Jockey.mp3"
     },
     {
-      "game": "Poke Transporter",
-      "file": "audio/Poke Transporter.mp3"
+      "name": "Poke Transporter",
+      "file": "Poke Transporter.mp3"
     },
     {
-      "game": "Pokedex 3D Pro",
-      "file": "audio/Pokedex 3D Pro Rev 1.mp3"
+      "name": "Pokedex 3D Pro",
+      "file": "Pokedex 3D Pro Rev 1.mp3"
     },
     {
-      "game": "Pokedex 3D",
-      "file": "audio/Pokedex 3D Rev 1.mp3"
+      "name": "Pokedex 3D",
+      "file": "Pokedex 3D Rev 1.mp3"
     },
     {
-      "game": "Pokedex",
-      "file": "audio/Pokedex.mp3"
+      "name": "Pokedex",
+      "file": "Pokedex.mp3"
     },
     {
-      "game": "Pokemon - Alpha Sapphire",
-      "file": "audio/Pokemon - Alpha Sapphire.mp3"
+      "name": "Pokemon - Alpha Sapphire",
+      "file": "Pokemon - Alpha Sapphire.mp3"
     },
     {
-      "game": "Pokemon - Omega Ruby",
-      "file": "audio/Pokemon - Omega Ruby.mp3"
+      "name": "Pokemon - Omega Ruby",
+      "file": "Pokemon - Omega Ruby.mp3"
     },
     {
-      "game": "Pokemon Bank",
-      "file": "audio/Pokemon Bank.mp3"
+      "name": "Pokemon Bank",
+      "file": "Pokemon Bank.mp3"
     },
     {
-      "game": "Pokemon Picross",
-      "file": "audio/Pokemon Picross.mp3"
+      "name": "Pokemon Picross",
+      "file": "Pokemon Picross.mp3"
     },
     {
-      "game": "Pokemon Rumble World",
-      "file": "audio/Pokemon Rumble World Rev 1.mp3"
+      "name": "Pokemon Rumble World",
+      "file": "Pokemon Rumble World Rev 1.mp3"
     },
     {
-      "game": "Pokemon Shuffle",
-      "file": "audio/Pokemon Shuffle Rev 3.mp3"
+      "name": "Pokemon Shuffle",
+      "file": "Pokemon Shuffle Rev 3.mp3"
     },
     {
-      "game": "Pokemon X",
-      "file": "audio/Pokemon X.mp3"
+      "name": "Pokemon X",
+      "file": "Pokemon X.mp3"
     },
     {
-      "game": "Pokemon Y",
-      "file": "audio/Pokemon Y.mp3"
+      "name": "Pokemon Y",
+      "file": "Pokemon Y.mp3"
     },
     {
-      "game": "Pong Pong Candy",
-      "file": "audio/Pong Pong Candy.mp3"
+      "name": "Pong Pong Candy",
+      "file": "Pong Pong Candy.mp3"
     },
     {
-      "game": "Pushmo",
-      "file": "audio/Pushmo Rev 1.mp3"
+      "name": "Pushmo",
+      "file": "Pushmo Rev 1.mp3"
     },
     {
-      "game": "PUZZLEBOX setup",
-      "file": "audio/PUZZLEBOX setup.mp3"
+      "name": "PUZZLEBOX setup",
+      "file": "PUZZLEBOX setup.mp3"
     },
     {
-      "game": "Pyramids 2",
-      "file": "audio/Pyramids 2.mp3"
+      "name": "Pyramids 2",
+      "file": "Pyramids 2.mp3"
     },
     {
-      "game": "Pyramids",
-      "file": "audio/Pyramids.mp3"
+      "name": "Pyramids",
+      "file": "Pyramids.mp3"
     },
     {
-      "game": "Quell Memento",
-      "file": "audio/Quell Memento.mp3"
+      "name": "Quell Memento",
+      "file": "Quell Memento.mp3"
     },
     {
-      "game": "Quell Reflect",
-      "file": "audio/Quell Reflect.mp3"
+      "name": "Quell Reflect",
+      "file": "Quell Reflect.mp3"
     },
     {
-      "game": "Rabi Laby 3",
-      "file": "audio/Rabi Laby 3.mp3"
+      "name": "Rabi Laby 3",
+      "file": "Rabi Laby 3.mp3"
     },
     {
-      "game": "Rage of the Gladiator",
-      "file": "audio/Rage of the Gladiator.mp3"
+      "name": "Rage of the Gladiator",
+      "file": "Rage of the Gladiator.mp3"
     },
     {
-      "game": "Retro City Rampage - DX",
-      "file": "audio/Retro City Rampage - DX.mp3"
+      "name": "Retro City Rampage - DX",
+      "file": "Retro City Rampage - DX.mp3"
     },
     {
-      "game": "Rising Board 3D",
-      "file": "audio/Rising Board 3D.mp3"
+      "name": "Rising Board 3D",
+      "file": "Rising Board 3D.mp3"
     },
     {
-      "game": "Robot Rescue 3D",
-      "file": "audio/Robot Rescue 3D.mp3"
+      "name": "Robot Rescue 3D",
+      "file": "Robot Rescue 3D.mp3"
     },
     {
-      "game": "Runny Egg",
-      "file": "audio/Runny Egg.mp3"
+      "name": "Runny Egg",
+      "file": "Runny Egg.mp3"
     },
     {
-      "game": "Rustys Real Deal Baseball",
-      "file": "audio/Rustys Real Deal Baseball.mp3"
+      "name": "Rustys Real Deal Baseball",
+      "file": "Rustys Real Deal Baseball.mp3"
     },
     {
-      "game": "RV-7 My Drone",
-      "file": "audio/RV-7 My Drone.mp3"
+      "name": "RV-7 My Drone",
+      "file": "RV-7 My Drone.mp3"
     },
     {
-      "game": "Rytmik Ultimate",
-      "file": "audio/Rytmik Ultimate.mp3"
+      "name": "Rytmik Ultimate",
+      "file": "Rytmik Ultimate.mp3"
     },
     {
-      "game": "Sadame",
-      "file": "audio/Sadame.mp3"
+      "name": "Sadame",
+      "file": "Sadame.mp3"
     },
     {
-      "game": "Sakura Samurai - Art of the Sword",
-      "file": "audio/Sakura Samurai - Art of the Sword.mp3"
+      "name": "Sakura Samurai - Art of the Sword",
+      "file": "Sakura Samurai - Art of the Sword.mp3"
     },
     {
-      "game": "Samurai Defender",
-      "file": "audio/Samurai Defender.mp3"
+      "name": "Samurai Defender",
+      "file": "Samurai Defender.mp3"
     },
     {
-      "game": "Samurai Sword Destiny",
-      "file": "audio/Samurai Sword Destiny.mp3"
+      "name": "Samurai Sword Destiny",
+      "file": "Samurai Sword Destiny.mp3"
     },
     {
-      "game": "Samurai Warriors Chronicles 3",
-      "file": "audio/Samurai Warriors Chronicles 3.mp3"
+      "name": "Samurai Warriors Chronicles 3",
+      "file": "Samurai Warriors Chronicles 3.mp3"
     },
     {
-      "game": "Save Data Transfer Tool",
-      "file": "audio/Save Data Transfer Tool.mp3"
+      "name": "Save Data Transfer Tool",
+      "file": "Save Data Transfer Tool.mp3"
     },
     {
-      "game": "Scarygirl Illustration Kit",
-      "file": "audio/Scarygirl Illustration Kit.mp3"
+      "name": "Scarygirl Illustration Kit",
+      "file": "Scarygirl Illustration Kit.mp3"
     },
     {
-      "game": "Secret Journeys - Cities of the World",
-      "file": "audio/Secret Journeys - Cities of the World.mp3"
+      "name": "Secret Journeys - Cities of the World",
+      "file": "Secret Journeys - Cities of the World.mp3"
     },
     {
-      "game": "Senran Kagura Burst",
-      "file": "audio/Senran Kagura Burst.mp3"
+      "name": "Senran Kagura Burst",
+      "file": "Senran Kagura Burst.mp3"
     },
     {
-      "game": "Shantae and the Pirates Curse",
-      "file": "audio/Shantae and the Pirates Curse.mp3"
+      "name": "Shantae and the Pirates Curse",
+      "file": "Shantae and the Pirates Curse.mp3"
     },
     {
-      "game": "Shovel Knight",
-      "file": "audio/Shovel Knight.mp3"
+      "name": "Shovel Knight",
+      "file": "Shovel Knight.mp3"
     },
     {
-      "game": "Siesta Fiesta",
-      "file": "audio/Siesta Fiesta.mp3"
+      "name": "Siesta Fiesta",
+      "file": "Siesta Fiesta.mp3"
     },
     {
-      "game": "SkyPeace",
-      "file": "audio/SkyPeace.mp3"
+      "name": "SkyPeace",
+      "file": "SkyPeace.mp3"
     },
     {
-      "game": "Smash Cat Heroes",
-      "file": "audio/Smash Cat Heroes.mp3"
+      "name": "Smash Cat Heroes",
+      "file": "Smash Cat Heroes.mp3"
     },
     {
-      "game": "Smash Controller",
-      "file": "audio/Smash Controller.mp3"
+      "name": "Smash Controller",
+      "file": "Smash Controller.mp3"
     },
     {
-      "game": "SmileBASIC",
-      "file": "audio/SmileBASIC.mp3"
+      "name": "SmileBASIC",
+      "file": "SmileBASIC.mp3"
     },
     {
-      "game": "Soccer Up Online",
-      "file": "audio/Soccer Up Online.mp3"
+      "name": "Soccer Up Online",
+      "file": "Soccer Up Online.mp3"
     },
     {
-      "game": "Space Lift Danger Panic",
-      "file": "audio/Space Lift Danger Panic.mp3"
+      "name": "Space Lift Danger Panic",
+      "file": "Space Lift Danger Panic.mp3"
     },
     {
-      "game": "SpeedX 3D Hyper Edition",
-      "file": "audio/SpeedX 3D Hyper Edition.mp3"
+      "name": "SpeedX 3D Hyper Edition",
+      "file": "SpeedX 3D Hyper Edition.mp3"
     },
     {
-      "game": "SpeedX 3D",
-      "file": "audio/SpeedX 3D.mp3"
+      "name": "SpeedX 3D",
+      "file": "SpeedX 3D.mp3"
     },
     {
-      "game": "Squids Odyssey",
-      "file": "audio/Squids Odyssey.mp3"
+      "name": "Squids Odyssey",
+      "file": "Squids Odyssey.mp3"
     },
     {
-      "game": "Star Wars Pinball",
-      "file": "audio/Star Wars Pinball.mp3"
+      "name": "Star Wars Pinball",
+      "file": "Star Wars Pinball.mp3"
     },
     {
-      "game": "Steamworld Dig",
-      "file": "audio/Steamworld Dig.mp3"
+      "name": "Steamworld Dig",
+      "file": "Steamworld Dig.mp3"
     },
     {
-      "game": "SteamWorld Heist",
-      "file": "audio/SteamWorld Heist.mp3"
+      "name": "SteamWorld Heist",
+      "file": "SteamWorld Heist.mp3"
     },
     {
-      "game": "Steel Diver - Sub Wars",
-      "file": "audio/Steel Diver - Sub Wars.mp3"
+      "name": "Steel Diver - Sub Wars",
+      "file": "Steel Diver - Sub Wars.mp3"
     },
     {
-      "game": "Stretchmo",
-      "file": "audio/Stretchmo.mp3"
+      "name": "Stretchmo",
+      "file": "Stretchmo.mp3"
     },
     {
-      "game": "Strike Force Foxx",
-      "file": "audio/Strike Force Foxx.mp3"
+      "name": "Strike Force Foxx",
+      "file": "Strike Force Foxx.mp3"
     },
     {
-      "game": "Super Dodge Ball",
-      "file": "audio/Super Dodge Ball.mp3"
+      "name": "Super Dodge Ball",
+      "file": "Super Dodge Ball.mp3"
     },
     {
-      "game": "Super Little Acorns 3D Turbo",
-      "file": "audio/Super Little Acorns 3D Turbo.mp3"
+      "name": "Super Little Acorns 3D Turbo",
+      "file": "Super Little Acorns 3D Turbo.mp3"
     },
     {
-      "game": "Super Mario 3D Land",
-      "file": "audio/Super Mario 3D Land.mp3"
+      "name": "Super Mario 3D Land",
+      "file": "Super Mario 3D Land.mp3"
     },
     {
-      "game": "Super Mario Land 2 - 6 Golden Coins",
-      "file": "audio/Super Mario Land 2 - 6 Golden Coins Rev 1.mp3"
+      "name": "Super Mario Land 2 - 6 Golden Coins",
+      "file": "Super Mario Land 2 - 6 Golden Coins Rev 1.mp3"
     },
     {
-      "game": "Super Mario Land",
-      "file": "audio/Super Mario Land.mp3"
+      "name": "Super Mario Land",
+      "file": "Super Mario Land.mp3"
     },
     {
-      "game": "Swapnote",
-      "file": "audio/Swapnote Rev 2.mp3"
+      "name": "Swapnote",
+      "file": "Swapnote Rev 2.mp3"
     },
     {
-      "game": "Swords Darkness",
-      "file": "audio/Swords Darkness.mp3"
+      "name": "Swords Darkness",
+      "file": "Swords Darkness.mp3"
     },
     {
-      "game": "Tangram Attack",
-      "file": "audio/Tangram Attack.mp3"
+      "name": "Tangram Attack",
+      "file": "Tangram Attack.mp3"
     },
     {
-      "game": "Tappingo 2",
-      "file": "audio/Tappingo 2.mp3"
+      "name": "Tappingo 2",
+      "file": "Tappingo 2.mp3"
     },
     {
-      "game": "Tappingo",
-      "file": "audio/Tappingo.mp3"
+      "name": "Tappingo",
+      "file": "Tappingo.mp3"
     },
     {
-      "game": "Terraria",
-      "file": "audio/Terraria.mp3"
+      "name": "Terraria",
+      "file": "Terraria.mp3"
     },
     {
-      "game": "Tetris",
-      "file": "audio/Tetris.mp3"
+      "name": "Tetris",
+      "file": "Tetris.mp3"
     },
     {
-      "game": "THE DENPA MEN - They Came By Wave",
-      "file": "audio/THE DENPA MEN - They Came By Wave.mp3"
+      "name": "THE DENPA MEN - They Came By Wave",
+      "file": "THE DENPA MEN - They Came By Wave.mp3"
     },
     {
-      "game": "THE DENPA MEN 2 - Beyond the Waves",
-      "file": "audio/THE DENPA MEN 2 - Beyond the Waves.mp3"
+      "name": "THE DENPA MEN 2 - Beyond the Waves",
+      "file": "THE DENPA MEN 2 - Beyond the Waves.mp3"
     },
     {
-      "game": "THE DENPA MEN 3 - The Rise of Digitoll",
-      "file": "audio/THE DENPA MEN 3 - The Rise of Digitoll.mp3"
+      "name": "THE DENPA MEN 3 - The Rise of Digitoll",
+      "file": "THE DENPA MEN 3 - The Rise of Digitoll.mp3"
     },
     {
-      "game": "Thorium Wars - Attack of the Skyfighter",
-      "file": "audio/Thorium Wars - Attack of the Skyfighter.mp3"
+      "name": "Thorium Wars - Attack of the Skyfighter",
+      "file": "Thorium Wars - Attack of the Skyfighter.mp3"
     },
     {
-      "game": "Tokyo Crash Mobs",
-      "file": "audio/Tokyo Crash Mobs.mp3"
+      "name": "Tokyo Crash Mobs",
+      "file": "Tokyo Crash Mobs.mp3"
     },
     {
-      "game": "Tomodachi Life - Move-In Version",
-      "file": "audio/Tomodachi Life - Move-In Version.mp3"
+      "name": "Tomodachi Life - Move-In Version",
+      "file": "Tomodachi Life - Move-In Version.mp3"
     },
     {
-      "game": "Toy Stunt Bike",
-      "file": "audio/Toy Stunt Bike.mp3"
+      "name": "Toy Stunt Bike",
+      "file": "Toy Stunt Bike.mp3"
     },
     {
-      "game": "Toys vs Monsters",
-      "file": "audio/Toys vs Monsters.mp3"
+      "name": "Toys vs Monsters",
+      "file": "Toys vs Monsters.mp3"
     }
   ]
 }
